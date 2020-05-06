@@ -2,7 +2,6 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  list-style: none;
 }
 
 .navbarTop {
@@ -65,11 +64,11 @@ span {
   padding-top: 20px;
   margin: 10px 0;
 }
+
 /* FOOTER */
 footer{
   width: 68%;
   max-width: 1020px;
-  list-style-type: circle;
 }
 
 footer ul{
